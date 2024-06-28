@@ -32,7 +32,7 @@ function Register() {
 
 	return (
 		<div>
-			<h2 className='text-xl font-bold'>Register</h2>
+			<h2 className='text-xl font-bold'>Register page</h2>
 			<p className='text-muted-foreground'>
 				Already have an account?{' '}
 				<span className='text-blue-500 cursor-pointer hover:underline'>
