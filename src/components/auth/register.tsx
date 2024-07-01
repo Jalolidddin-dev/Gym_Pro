@@ -32,7 +32,7 @@ function Register() {
 
 	return (
 		<div>
-			<h2 className='text-xl font-bold'>Register page</h2>
+			<h2 className='text-xl font-bold'>Register</h2>
 			<p className='text-muted-foreground'>
 				Already have an account?{' '}
 				<span className='text-blue-500 cursor-pointer hover:underline'>
@@ -84,7 +84,7 @@ function Register() {
 						/>
 					</div>
 					<Button className='w-full h-12' type='submit'>
-						Submit
+						Register
 					</Button>
 				</form>
 				<Social />
